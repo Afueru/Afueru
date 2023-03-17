@@ -8,7 +8,6 @@ Currently an information systems student at University of São Paulo and intern 
 
 * 🌍  I'm based in São Paulo - Brazil
 * ✉️  You can contact me at [mkherr8@gmail.com](mailto:mkherr8@gmail.com)
-* 🚀  I'm currently working on [TCU](http://portal.tcu.gov.br/inicio/index.htm)
 * 🧠  I'm learning about Data Science
 
 ### Skills
